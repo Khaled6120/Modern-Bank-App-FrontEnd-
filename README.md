@@ -1,4 +1,4 @@
-# Modern-Bank-App-UIModern-Bank-App-UI
+# Modern-Bank-App-UI
 
 1. Project overview
 2. Technologies
