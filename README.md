@@ -36,4 +36,4 @@ Once you have the project in your machine, please run these commands
 
 Live : [Click to go Live](https://darling-babka-4adfd9.netlify.app/)
 
-Responsiveness : ![image](https://user-images.githubusercontent.com/86200305/222816550-228de2df-206a-4635-a005-254ddb5f691e.png)
+**Responsiveness :** <br /> <br /> ![image](https://user-images.githubusercontent.com/86200305/222816550-228de2df-206a-4635-a005-254ddb5f691e.png)
